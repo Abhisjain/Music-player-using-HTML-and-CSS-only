@@ -1,8 +1,6 @@
 <html><h1>Web Music Player</h>
 A Progressive Web Music Player built with HTML and CSS.
-
-<h2>          Screenshot  </h2>
-    
+<h2>          Screenshots  </h2>
 <p> 
 <br>
 
